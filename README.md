@@ -5,7 +5,7 @@
 
 - 📫 Contate-me no e-mail: viniciusfrigulha@gmail.com
 
-- ⚡ Fun facts Eu acho que sou divertido 😜
+- ⚡ Fun facts: Eu acho que sou divertido 😜
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
