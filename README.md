@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou cursando Ciência da Computação
 
-- ⚡ Hobbies: Jogos 🎮💻, exercícios 🏃‍, filmes e séries 🎥, livros 📚 e violino 🎻
+- ⚡ Hobbies: Jogos 🎮💻, exercícios 🏃‍, filmes e séries 🎥, livros 📚 e música 🎻
 
 <h3 align="left">Contate-me:</h3>
 <p align="left">
