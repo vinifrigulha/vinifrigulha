@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou Vinícius Frigulha Ribeiro</h1>
+<h1 align="center">Olá! 👋 Eu sou Vinícius Frigulha Ribeiro</h1>
 <h3 align="center">Um universitário apaixonado por novas tecnologias!</h3>
 
 - 🔭 Atualmente estou estudando Ciência da Computação
