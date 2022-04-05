@@ -1,9 +1,11 @@
-<h1 align="center">Olá! 👋 Eu sou Vinícius Frigulha Ribeiro</h1>
+<h1 align="center">Olá! 👋🏻 Eu sou Vinícius Frigulha Ribeiro</h1>
 <h3 align="center">Um universitário apaixonado por novas tecnologias!</h3>
 
-- 🔭 Atualmente estou cursando Ciência da Computação
+- 🎓 Atualmente estou cursando Ciência da Computação
 
-- ⚡ Hobbies: Jogos 🎮💻, exercícios 🏃‍, filmes e séries 🎥, livros 📚 e música 🎻
+- 🎮 JOGOS - 🏃 EXERCÍCIOS - 🎥 FILMES E SÉRIES - 📚 LIVROS - 🚗 VIAGENS - 🎻 MÚSICA
+
+- 🙏🏻 "E a vida eterna é esta: que te conheçam a ti, o único Deus verdadeiro, e a Jesus Cristo, a quem enviaste." - João 17:3 
 
 <h3 align="left">Contate-me:</h3>
 <p align="left">
