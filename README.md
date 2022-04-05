@@ -1,7 +1,7 @@
 ### Olá! Eu sou Vinícius Frigulha Ribeiro 👋
 
 - 🔭 Atualmente sou Universitário em Ciência da Computação
-- 🌱 Estudando Lógica, Banco de Dados e Web
+- 🌱 Estudando Lógica, Banco de Dados e Desenvolvimento Web
 - 📫 Contate-me no e-mail: viniciusfrigulha@gmail.com
 - 😄 Pronomes: ele/dele
 
