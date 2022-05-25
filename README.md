@@ -19,7 +19,9 @@
  ##
   
 <div align="center"> 
-   <img src="https://github.com/vinifrigulha/vinifrigulha/blob/main/goma-cat.gif"/>
+   <a href="https://github.com/vinifrigulha">
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vinifrigulha&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/> 
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinifrigulha&layout=compact&langs_count=7&theme=merko"/>
 </div> 
 
 ##
